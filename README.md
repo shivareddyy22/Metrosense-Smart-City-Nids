@@ -2,7 +2,6 @@
 
 A Cisco Packet Tracer project simulating a segmented smart-city IoT network protected by a layered Network Intrusion Detection System (NIDS), reporting to a remote Security Operations Centre (SOC).
 
-![MetroSense Topology](topology.png)
 
 
 ## Motive
@@ -33,7 +32,7 @@ Modern smart cities and hospitals deploy large numbers of low-security IoT devic
 
 ## Full IP Addressing
 
-See [`MetroSense_Build_Manual.docx`](./MetroSense_Build_Manual.docx) for the complete addressing plan (10 subnets), device inventory, and full CLI configuration for every switch, router, and firewall.
+See [`MetroSense_Build_Manual.pdf`](./MetroSense_Build_Manual.pdf) for the complete addressing plan (10 subnets), device inventory, and full CLI configuration for every switch, router, and firewall.
 
 ## Issues Encountered & Resolved
 
