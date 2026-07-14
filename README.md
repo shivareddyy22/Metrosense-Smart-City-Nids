@@ -72,7 +72,7 @@ Full end-to-end connectivity was verified from every city-side VLAN through to t
 - WAN link connectivity to the remote SOC
 - Active SPAN session confirmed via `show monitor session 1`
 
-![Core Switch Verification](core-switch-verification.png)
+![Core Switch Verification](core-switch-verification.png.png)
 
 All five VLAN SVIs (10/20/30/40/50) are up with correct IP addressing, and the SPAN session is confirmed actively mirroring VLANs 10-50 to the NIDS sensor on Fa0/8.
 
